@@ -1,2 +1,2 @@
-# Other-Projects
-This repository contains projects done in college
+# Data Science/ML/NP/AI Projects
+This repository contains data science, machine learning, natural language processing, and artificial intelligence projects.
